@@ -1,3 +1,3 @@
 # Trabajo Practico Generala
-desarrollo del Juego Generala
+Desarrollo del Juego Generala
 [] ()
